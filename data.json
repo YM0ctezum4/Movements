@@ -1,0 +1,31 @@
+{
+  "colores":{
+    "p1" : "rgb(255, 255, 255)",
+    "p2" : "rgb(255, 100, 50)",
+    "p3" : "rgb(50, 255, 100)",
+    "p4" : "rgb(150, 255, 100)",
+    "p5" : "rgb(100, 255, 150)",
+    "p6" : "rgb(150, 255, 255)",
+    "p7" : "rgb(255, 255, 150)"
+  },
+  "videos":{
+    "p1" : "videos/giphy-2.mp4",
+    "p2" : "videos/giphy-3.mp4",
+    "p3" : "videos/giphy-4.mp4",
+    "p4" : "videos/giphy-5.mp4",
+    "p5" : "videos/giphy-6.mp4",
+    "p6" : "videos/giphy-7.mp4",
+    "p7" : "videos/giphy.mp4"
+  },
+
+  "audios":{
+    "p1" : "audios/Lluvia.mp3",
+    "p2" : "audios/Cine.mp3",
+    "p3" : "audios/Agua.mp3",
+    "p4" : "audios/Farola.mp3",
+    "p5" : "audios/Glitch.mp3",
+    "p6" : "audios/Gotas de agua.mp3",
+    "p7" : "audios/Latidos.mp3"
+
+  }
+}
